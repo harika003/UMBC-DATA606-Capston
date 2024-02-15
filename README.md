@@ -1,1 +1,1 @@
-# UMBC-DATA606-Capston
+# UMBC-DATA606-Capstone
